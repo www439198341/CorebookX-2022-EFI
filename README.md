@@ -17,3 +17,8 @@
 ### What Not Work well:
 
 - [ ] Brightness Keys (long press work)
+
+
+### TODO
+
+- [ ] Replace Apple LOGO on startup
